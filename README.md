@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/QR2Qjn96vMESkVlf0E" alt="Demo of Pomofocus Clone" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQ1ZjJseXoxZTgxaHlwbTdjOGJoOG9tdWUzZ21wZnRobG5hbGRjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QR2Qjn96vMESkVlf0E/giphy.gif" alt="Demo of Pomofocus Clone" width="300">
 </p>
 
 ## 🚀 Features
