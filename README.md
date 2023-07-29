@@ -31,7 +31,7 @@
 
 Follow these instructions to get the project up and running on your local machine for development and testing purposes:
 
-1. Clone the repository: `git clone https://github.com/your-username/pomofocus-clone.git`
+1. Clone the repository: `git clone https://github.com/Pragya1904/pomofocus-clone.git`
 2. Navigate to the project directory: `cd pomofocus-clone`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
