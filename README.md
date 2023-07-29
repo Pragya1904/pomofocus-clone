@@ -19,14 +19,6 @@
 - ⏳ Set timers for tasks using the Pomodoro Technique (25 minutes work, 5 minutes break).
 - 📊 Track completed pomodoros and view task history.
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://your-image-url.com/screenshot1.png" alt="Screenshot 1" width="200">
-  <img src="https://your-image-url.com/screenshot2.png" alt="Screenshot 2" width="200">
-  <img src="https://your-image-url.com/screenshot3.png" alt="Screenshot 3" width="200">
-</p>
-
 ## 🛠️ Getting Started
 
 Follow these instructions to get the project up and running on your local machine for development and testing purposes:
